@@ -3,7 +3,7 @@
 
 This is my first portfolio, built using the Astro framework and incorporating components from React. Feel free to clone this repository and customize it to your liking.
 
-You can check out the live version of this portfolio [here](https://itssofi.dev/).
+
 
 Don't forget to give this repository a star ⭐ if you find it helpful.
 
@@ -72,21 +72,3 @@ These styles, in turn, use the following color variables:
 --pink-terminal: rgb(255, 0, 144);
 --blue-terminal: aqua;
 ```
-
-Feel free to explore and modify the styles to match your preferences. The color variables provide a convenient way to maintain a consistent color scheme throughout your portfolio.
-
-## License
-
-This project is licensed under the MIT License. Feel free to use, modify, and share it in accordance with the terms of the license. If you have any questions or need assistance, don't hesitate to reach out.
-
-Happy coding! 🚀
-![image](https://github.com/SofiDevO/sofidev-portfolio-astro/assets/102200061/15177113-19c4-4de0-aa90-a4f5a32ef07e)
-
-
-[Visit my website](https://itssofi.dev/)
-
-![image](https://github.com/SofiDevO/SofiDev-landingpage/assets/102200061/132c1833-def1-47ab-8a8d-13c5c0499257)
-![image](https://github.com/SofiDevO/SofiDev-landingpage/assets/102200061/448f27ea-1efc-4608-a439-2e81cae00fc4)
-
-![image](https://github.com/SofiDevO/SofiDev-landingpage/assets/102200061/fcd22a9d-5ff7-4673-a2a6-f51b65e4c213)
-![image](https://github.com/SofiDevO/SofiDev-landingpage/assets/102200061/e0ed8666-e6f2-40be-a538-82bd019aa3d0)
